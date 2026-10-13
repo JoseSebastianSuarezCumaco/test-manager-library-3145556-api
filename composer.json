@@ -1,8 +1,11 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "josesebastiansuarezcumaco/manager-library-api",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Manager Library backend (Laravel). Technical test, SDD, ADSO ficha 3145556.",
+    "authors": [
+    { "name": "José Sebastián Suárez Cumaco", "homepage": "https://github.com/JoseSebastianSuarezCumaco" }
+    ],
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
